@@ -1,0 +1,6 @@
+class HomeNeeds extends Discount{
+	
+	
+	
+	
+}
